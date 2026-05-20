@@ -1,3 +1,62 @@
+
+#《心一映物》
+
+**保持觉知，实事求是。**
+
+---
+
+## 关于本书
+
+《心一映物》是一部关于生命认知与觉醒实践的体系性著作。
+
+它提出一个根本洞见：宇宙运作有两个基本面向——**心一**与**物一**，二者非一非异。心一是能知能觉能用的绝对主体，本不生灭，本自具足，能生万法。物一是客观物理法则，因果不昧，不因人意而移。
+
+全书以此为核心，从理论到功夫、从悟入到陷阱、从生到死再到生，完成了对觉醒路径的完整描绘。它不依赖任何宗教权威，不用你信什么，只邀请你用亲身实践去验证。
+
+---
+
+## 核心框架
+
+- **心一**：能知、能觉、能用。不是你的念头，不是你的情绪，是那个正在读这行字的“知”本身。
+- **物一**：物理法则。你的身体、你的大脑、你的每一丝情绪，都有其物理载体。
+- **非一非异**：心一不是物一，心一不离物一。二者是体与用的关系，不是两个对立的东西。
+- **观者不染**：那个能看、能觉的功能，本身不被它所看到的内容污染。但观者不是终点，只是回家的路标。
+
+---
+
+## 全书结构
+
+- **总纲·心物铁律** — 体系的基石
+- **第一篇·德篇** — 心一为主（认识觉知主体）
+- **第二篇·道篇** — 物一为行（顺物理法则而行）
+- **第三篇·德道合一** — 功夫论、陷阱论、生死关
+- **附篇** — 传说之谜、案例解析、能效之喻、渡人经等
+
+## 文件说明
+
+| 文件名 | 说明 |
+|--------|------|
+| `心一映物.md` | 全书完整文本，可直接在线阅读 |
+| `心一映物.docx` | 全书 Word 版本，可下载编辑 |
+
+---
+
+## 许可声明
+
+本书可自由复制、分发、翻译，不可用于商业用途。
+
+本作品采用 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证进行授权。
+
+---
+
+## English Abstract
+
+*Xin Yi Ying Wu* (Mind-One Reflects Matter-One) is a systematic work on awakening and life cognition. It proposes a fundamental framework: **Mind-One** (the absolute subject of knowing, awareness, and agency) and **Matter-One** (objective physical laws). The two are neither identical nor separate — they are two aspects of a single, unified operation.
+
+The book builds a complete path from theory to practice, from insight to trap recognition, from birth to death and back again. It does not rely on any religious authority. It asks for no belief — only personal verification through direct experience.
+
+Stay aware. Be practical.
+
 《心一映物》是一本关于自我觉醒的书，以下是某AI的对比点评
 
 一、评定前提
